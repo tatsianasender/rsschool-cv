@@ -27,6 +27,7 @@ To obtain position of junior web-developer, what will allow me to use my knowled
 ### Experience
 
 CIM, Minsk - web-developer
+Spektr, Grodno - web-developer
 
 * create cross-browser and adaptive layout;
 
